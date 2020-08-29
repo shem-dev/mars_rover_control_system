@@ -31,8 +31,8 @@ $ python index.py
 - Select your preffered grid size on the 'Grid Settings' pane then click 'Update'
 - Select the number of rovers you would like to introduce in the 'Rover Settings' pane then click 'Update'
 - Select the rover you would like to move on the combo box in the 'Navigate Rover' pane then:
--- Click 'M' to move the rover forward in the selected direction
--- Click 'R' to turn the rover 90 degrees to the right
--- Click 'L' to turn the rover 90 degrees to the left
+- Click 'M' to move the rover forward in the selected direction
+- Click 'R' to turn the rover 90 degrees to the right
+- Click 'L' to turn the rover 90 degrees to the left
 - If the rover is about to go out of bounds, a pop-up will appear informing you of this and will request that you turn the rover to a valid direction
 
